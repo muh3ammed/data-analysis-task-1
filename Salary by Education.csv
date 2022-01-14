@@ -1,0 +1,505 @@
+﻿Degree Level,Nationality,Gender,Year Quarter,Salary,Currency
+Primary,NonSaudi,Female,2017 Q1,1590,SAR
+Primary,NonSaudi,Male,2017 Q1,2173,SAR
+Primary,Saudi,Female,2017 Q1,4172,SAR
+Primary,Saudi,Male,2017 Q1,6172,SAR
+Primary,NonSaudi,Female,2017 Q2,1597,SAR
+Primary,NonSaudi,Male,2017 Q2,2213,SAR
+Primary,Saudi,Female,2017 Q2,3875,SAR
+Primary,Saudi,Male,2017 Q2,5957,SAR
+Primary,NonSaudi,Female,2017 Q3,1596,SAR
+Primary,NonSaudi,Male,2017 Q3,2250,SAR
+Primary,Saudi,Female,2017 Q3,3955,SAR
+Primary,Saudi,Male,2017 Q3,5958,SAR
+Primary,NonSaudi,Female,2017 Q4,1576,SAR
+Primary,NonSaudi,Male,2017 Q4,2114,SAR
+Primary,Saudi,Female,2017 Q4,4191,SAR
+Primary,Saudi,Male,2017 Q4,6409,SAR
+Primary,NonSaudi,Female,2018 Q1,1588,SAR
+Primary,NonSaudi,Male,2018 Q1,2181,SAR
+Primary,Saudi,Female,2018 Q1,4165,SAR
+Primary,Saudi,Male,2018 Q1,5978,SAR
+Primary,NonSaudi,Female,2018 Q2,1509,SAR
+Primary,NonSaudi,Male,2018 Q2,2047,SAR
+Primary,Saudi,Female,2018 Q2,4063,SAR
+Primary,Saudi,Male,2018 Q2,5901,SAR
+Primary,NonSaudi,Female,2018 Q3,1577,SAR
+Primary,NonSaudi,Male,2018 Q3,2128,SAR
+Primary,Saudi,Female,2018 Q3,4324,SAR
+Primary,Saudi,Male,2018 Q3,6845,SAR
+Primary,NonSaudi,Female,2018 Q4,1497,SAR
+Primary,NonSaudi,Male,2018 Q4,2141,SAR
+Primary,Saudi,Female,2018 Q4,4475,SAR
+Primary,Saudi,Male,2018 Q4,6448,SAR
+Primary,NonSaudi,Female,2019 Q1,1566,SAR
+Primary,NonSaudi,Male,2019 Q1,2233,SAR
+Primary,Saudi,Female,2019 Q1,4584,SAR
+Primary,Saudi,Male,2019 Q1,6276,SAR
+Primary,NonSaudi,Female,2019 Q2,1631,SAR
+Primary,NonSaudi,Male,2019 Q2,2349,SAR
+Primary,Saudi,Female,2019 Q2,4734,SAR
+Primary,Saudi,Male,2019 Q2,6632,SAR
+Primary,NonSaudi,Female,2019 Q3,1687,SAR
+Primary,NonSaudi,Male,2019 Q3,2260,SAR
+Primary,Saudi,Female,2019 Q3,4569,SAR
+Primary,Saudi,Male,2019 Q3,6275,SAR
+Primary,NonSaudi,Female,2019 Q4,1595,SAR
+Primary,NonSaudi,Male,2019 Q4,2284,SAR
+Primary,Saudi,Female,2019 Q4,4538,SAR
+Primary,Saudi,Male,2019 Q4,6539,SAR
+Primary,NonSaudi,Female,2020 Q1,1633,SAR
+Primary,NonSaudi,Male,2020 Q1,2300,SAR
+Primary,Saudi,Female,2020 Q1,4541,SAR
+Primary,Saudi,Male,2020 Q1,6187,SAR
+Primary,NonSaudi,Female,2020 Q2,1449,SAR
+Primary,NonSaudi,Male,2020 Q2,2140,SAR
+Primary,Saudi,Female,2020 Q2,4441,SAR
+Primary,Saudi,Male,2020 Q2,6556,SAR
+Primary,NonSaudi,Female,2020 Q3,1501,SAR
+Primary,NonSaudi,Male,2020 Q3,2162,SAR
+Primary,Saudi,Female,2020 Q3,4982,SAR
+Primary,Saudi,Male,2020 Q3,6417,SAR
+Primary,NonSaudi,Female,2020 Q4,1331,SAR
+Primary,NonSaudi,Male,2020 Q4,2101,SAR
+Primary,Saudi,Female,2020 Q4,4129,SAR
+Primary,Saudi,Male,2020 Q4,6518,SAR
+Primary,NonSaudi,Female,2021 Q1,1384,SAR
+Primary,NonSaudi,Male,2021 Q1,1869,SAR
+Primary,Saudi,Female,2021 Q1,4047,SAR
+Primary,Saudi,Male,2021 Q1,5686,SAR
+Primary,NonSaudi,Female,2021 Q2,1398,SAR
+Primary,NonSaudi,Male,2021 Q2,1921,SAR
+Primary,Saudi,Female,2021 Q2,3970,SAR
+Primary,Saudi,Male,2021 Q2,5891,SAR
+Secondary,NonSaudi,Female,2017 Q1,3068,SAR
+Secondary,NonSaudi,Male,2017 Q1,3032,SAR
+Secondary,Saudi,Female,2017 Q1,5124,SAR
+Secondary,Saudi,Male,2017 Q1,8378,SAR
+Secondary,NonSaudi,Female,2017 Q2,1984,SAR
+Secondary,NonSaudi,Male,2017 Q2,2953,SAR
+Secondary,Saudi,Female,2017 Q2,5453,SAR
+Secondary,Saudi,Male,2017 Q2,8442,SAR
+Secondary,NonSaudi,Female,2017 Q3,2396,SAR
+Secondary,NonSaudi,Male,2017 Q3,3071,SAR
+Secondary,Saudi,Female,2017 Q3,5515,SAR
+Secondary,Saudi,Male,2017 Q3,8656,SAR
+Secondary,NonSaudi,Female,2017 Q4,1935,SAR
+Secondary,NonSaudi,Male,2017 Q4,3031,SAR
+Secondary,Saudi,Female,2017 Q4,5162,SAR
+Secondary,Saudi,Male,2017 Q4,8606,SAR
+Secondary,NonSaudi,Female,2018 Q1,2563,SAR
+Secondary,NonSaudi,Male,2018 Q1,3019,SAR
+Secondary,Saudi,Female,2018 Q1,5007,SAR
+Secondary,Saudi,Male,2018 Q1,8752,SAR
+Secondary,NonSaudi,Female,2018 Q2,1947,SAR
+Secondary,NonSaudi,Male,2018 Q2,2838,SAR
+Secondary,Saudi,Female,2018 Q2,5242,SAR
+Secondary,Saudi,Male,2018 Q2,8873,SAR
+Secondary,NonSaudi,Female,2018 Q3,1796,SAR
+Secondary,NonSaudi,Male,2018 Q3,2852,SAR
+Secondary,Saudi,Female,2018 Q3,5230,SAR
+Secondary,Saudi,Male,2018 Q3,9103,SAR
+Secondary,NonSaudi,Female,2018 Q4,1980,SAR
+Secondary,NonSaudi,Male,2018 Q4,2933,SAR
+Secondary,Saudi,Female,2018 Q4,5814,SAR
+Secondary,Saudi,Male,2018 Q4,9102,SAR
+Secondary,NonSaudi,Female,2019 Q1,2045,SAR
+Secondary,NonSaudi,Male,2019 Q1,3029,SAR
+Secondary,Saudi,Female,2019 Q1,5355,SAR
+Secondary,Saudi,Male,2019 Q1,9082,SAR
+Secondary,NonSaudi,Female,2019 Q2,2095,SAR
+Secondary,NonSaudi,Male,2019 Q2,3053,SAR
+Secondary,Saudi,Female,2019 Q2,5647,SAR
+Secondary,Saudi,Male,2019 Q2,9109,SAR
+Secondary,NonSaudi,Female,2019 Q3,2046,SAR
+Secondary,NonSaudi,Male,2019 Q3,3114,SAR
+Secondary,Saudi,Female,2019 Q3,5744,SAR
+Secondary,Saudi,Male,2019 Q3,9023,SAR
+Secondary,NonSaudi,Female,2019 Q4,2120,SAR
+Secondary,NonSaudi,Male,2019 Q4,3045,SAR
+Secondary,Saudi,Female,2019 Q4,5223,SAR
+Secondary,Saudi,Male,2019 Q4,9044,SAR
+Secondary,NonSaudi,Female,2020 Q1,2164,SAR
+Secondary,NonSaudi,Male,2020 Q1,3072,SAR
+Secondary,Saudi,Female,2020 Q1,5886,SAR
+Secondary,Saudi,Male,2020 Q1,8940,SAR
+Secondary,NonSaudi,Female,2020 Q2,2048,SAR
+Secondary,NonSaudi,Male,2020 Q2,2815,SAR
+Secondary,Saudi,Female,2020 Q2,5310,SAR
+Secondary,Saudi,Male,2020 Q2,8619,SAR
+Secondary,NonSaudi,Female,2020 Q3,1918,SAR
+Secondary,NonSaudi,Male,2020 Q3,2963,SAR
+Secondary,Saudi,Female,2020 Q3,5313,SAR
+Secondary,Saudi,Male,2020 Q3,8642,SAR
+Secondary,NonSaudi,Female,2020 Q4,1646,SAR
+Secondary,NonSaudi,Male,2020 Q4,2864,SAR
+Secondary,Saudi,Female,2020 Q4,5066,SAR
+Secondary,Saudi,Male,2020 Q4,8640,SAR
+Secondary,NonSaudi,Female,2021 Q1,1591,SAR
+Secondary,NonSaudi,Male,2021 Q1,2779,SAR
+Secondary,Saudi,Female,2021 Q1,4437,SAR
+Secondary,Saudi,Male,2021 Q1,8743,SAR
+Secondary,NonSaudi,Female,2021 Q2,1658,SAR
+Secondary,NonSaudi,Male,2021 Q2,2753,SAR
+Secondary,Saudi,Female,2021 Q2,4655,SAR
+Secondary,Saudi,Male,2021 Q2,8580,SAR
+Intermediate,NonSaudi,Female,2017 Q1,1649,SAR
+Intermediate,NonSaudi,Male,2017 Q1,2304,SAR
+Intermediate,Saudi,Female,2017 Q1,4310,SAR
+Intermediate,Saudi,Male,2017 Q1,7477,SAR
+Intermediate,NonSaudi,Female,2017 Q2,1651,SAR
+Intermediate,NonSaudi,Male,2017 Q2,2322,SAR
+Intermediate,Saudi,Female,2017 Q2,4235,SAR
+Intermediate,Saudi,Male,2017 Q2,7649,SAR
+Intermediate,NonSaudi,Female,2017 Q3,1654,SAR
+Intermediate,NonSaudi,Male,2017 Q3,2372,SAR
+Intermediate,Saudi,Female,2017 Q3,4067,SAR
+Intermediate,Saudi,Male,2017 Q3,7377,SAR
+Intermediate,NonSaudi,Female,2017 Q4,1664,SAR
+Intermediate,NonSaudi,Male,2017 Q4,2285,SAR
+Intermediate,Saudi,Female,2017 Q4,4590,SAR
+Intermediate,Saudi,Male,2017 Q4,7342,SAR
+Intermediate,NonSaudi,Female,2018 Q1,1666,SAR
+Intermediate,NonSaudi,Male,2018 Q1,2322,SAR
+Intermediate,Saudi,Female,2018 Q1,4247,SAR
+Intermediate,Saudi,Male,2018 Q1,7643,SAR
+Intermediate,NonSaudi,Female,2018 Q2,1661,SAR
+Intermediate,NonSaudi,Male,2018 Q2,2230,SAR
+Intermediate,Saudi,Female,2018 Q2,4648,SAR
+Intermediate,Saudi,Male,2018 Q2,7913,SAR
+Intermediate,NonSaudi,Female,2018 Q3,1725,SAR
+Intermediate,NonSaudi,Male,2018 Q3,2287,SAR
+Intermediate,Saudi,Female,2018 Q3,5748,SAR
+Intermediate,Saudi,Male,2018 Q3,8178,SAR
+Intermediate,NonSaudi,Female,2018 Q4,1662,SAR
+Intermediate,NonSaudi,Male,2018 Q4,2347,SAR
+Intermediate,Saudi,Female,2018 Q4,4905,SAR
+Intermediate,Saudi,Male,2018 Q4,8131,SAR
+Intermediate,NonSaudi,Female,2019 Q1,1644,SAR
+Intermediate,NonSaudi,Male,2019 Q1,2413,SAR
+Intermediate,Saudi,Female,2019 Q1,4452,SAR
+Intermediate,Saudi,Male,2019 Q1,7956,SAR
+Intermediate,NonSaudi,Female,2019 Q2,1789,SAR
+Intermediate,NonSaudi,Male,2019 Q2,2472,SAR
+Intermediate,Saudi,Female,2019 Q2,4736,SAR
+Intermediate,Saudi,Male,2019 Q2,7965,SAR
+Intermediate,NonSaudi,Female,2019 Q3,1832,SAR
+Intermediate,NonSaudi,Male,2019 Q3,2463,SAR
+Intermediate,Saudi,Female,2019 Q3,4614,SAR
+Intermediate,Saudi,Male,2019 Q3,8071,SAR
+Intermediate,NonSaudi,Female,2019 Q4,1737,SAR
+Intermediate,NonSaudi,Male,2019 Q4,2453,SAR
+Intermediate,Saudi,Female,2019 Q4,4752,SAR
+Intermediate,Saudi,Male,2019 Q4,7765,SAR
+Intermediate,NonSaudi,Female,2020 Q1,1662,SAR
+Intermediate,NonSaudi,Male,2020 Q1,2539,SAR
+Intermediate,Saudi,Female,2020 Q1,5798,SAR
+Intermediate,Saudi,Male,2020 Q1,7865,SAR
+Intermediate,NonSaudi,Female,2020 Q2,1569,SAR
+Intermediate,NonSaudi,Male,2020 Q2,2348,SAR
+Intermediate,Saudi,Female,2020 Q2,4681,SAR
+Intermediate,Saudi,Male,2020 Q2,7611,SAR
+Intermediate,NonSaudi,Female,2020 Q3,1543,SAR
+Intermediate,NonSaudi,Male,2020 Q3,2361,SAR
+Intermediate,Saudi,Female,2020 Q3,4846,SAR
+Intermediate,Saudi,Male,2020 Q3,7605,SAR
+Intermediate,NonSaudi,Female,2020 Q4,1526,SAR
+Intermediate,NonSaudi,Male,2020 Q4,2300,SAR
+Intermediate,Saudi,Female,2020 Q4,4641,SAR
+Intermediate,Saudi,Male,2020 Q4,7723,SAR
+Intermediate,NonSaudi,Female,2021 Q1,1438,SAR
+Intermediate,NonSaudi,Male,2021 Q1,2087,SAR
+Intermediate,Saudi,Female,2021 Q1,4367,SAR
+Intermediate,Saudi,Male,2021 Q1,7583,SAR
+Intermediate,NonSaudi,Female,2021 Q2,1433,SAR
+Intermediate,NonSaudi,Male,2021 Q2,2232,SAR
+Intermediate,Saudi,Female,2021 Q2,4654,SAR
+Intermediate,Saudi,Male,2021 Q2,7523,SAR
+Bachelor,NonSaudi,Female,2017 Q1,6528,SAR
+Bachelor,NonSaudi,Male,2017 Q1,7787,SAR
+Bachelor,Saudi,Female,2017 Q1,10180,SAR
+Bachelor,Saudi,Male,2017 Q1,13023,SAR
+Bachelor,NonSaudi,Female,2017 Q2,6321,SAR
+Bachelor,NonSaudi,Male,2017 Q2,7868,SAR
+Bachelor,Saudi,Female,2017 Q2,10072,SAR
+Bachelor,Saudi,Male,2017 Q2,12902,SAR
+Bachelor,NonSaudi,Female,2017 Q3,6988,SAR
+Bachelor,NonSaudi,Male,2017 Q3,7851,SAR
+Bachelor,Saudi,Female,2017 Q3,10406,SAR
+Bachelor,Saudi,Male,2017 Q3,13041,SAR
+Bachelor,NonSaudi,Female,2017 Q4,6683,SAR
+Bachelor,NonSaudi,Male,2017 Q4,7655,SAR
+Bachelor,Saudi,Female,2017 Q4,9993,SAR
+Bachelor,Saudi,Male,2017 Q4,13142,SAR
+Bachelor,NonSaudi,Female,2018 Q1,6525,SAR
+Bachelor,NonSaudi,Male,2018 Q1,7732,SAR
+Bachelor,Saudi,Female,2018 Q1,10035,SAR
+Bachelor,Saudi,Male,2018 Q1,13448,SAR
+Bachelor,NonSaudi,Female,2018 Q2,6420,SAR
+Bachelor,NonSaudi,Male,2018 Q2,8270,SAR
+Bachelor,Saudi,Female,2018 Q2,10256,SAR
+Bachelor,Saudi,Male,2018 Q2,13147,SAR
+Bachelor,NonSaudi,Female,2018 Q3,7751,SAR
+Bachelor,NonSaudi,Male,2018 Q3,8254,SAR
+Bachelor,Saudi,Female,2018 Q3,10629,SAR
+Bachelor,Saudi,Male,2018 Q3,13181,SAR
+Bachelor,NonSaudi,Female,2018 Q4,7356,SAR
+Bachelor,NonSaudi,Male,2018 Q4,8114,SAR
+Bachelor,Saudi,Female,2018 Q4,10179,SAR
+Bachelor,Saudi,Male,2018 Q4,12847,SAR
+Bachelor,NonSaudi,Female,2019 Q1,6614,SAR
+Bachelor,NonSaudi,Male,2019 Q1,8378,SAR
+Bachelor,Saudi,Female,2019 Q1,10279,SAR
+Bachelor,Saudi,Male,2019 Q1,13075,SAR
+Bachelor,NonSaudi,Female,2019 Q2,7511,SAR
+Bachelor,NonSaudi,Male,2019 Q2,8882,SAR
+Bachelor,Saudi,Female,2019 Q2,10467,SAR
+Bachelor,Saudi,Male,2019 Q2,13108,SAR
+Bachelor,NonSaudi,Female,2019 Q3,8062,SAR
+Bachelor,NonSaudi,Male,2019 Q3,9096,SAR
+Bachelor,Saudi,Female,2019 Q3,10476,SAR
+Bachelor,Saudi,Male,2019 Q3,13059,SAR
+Bachelor,NonSaudi,Female,2019 Q4,7156,SAR
+Bachelor,NonSaudi,Male,2019 Q4,8205,SAR
+Bachelor,Saudi,Female,2019 Q4,10412,SAR
+Bachelor,Saudi,Male,2019 Q4,13052,SAR
+Bachelor,NonSaudi,Female,2020 Q1,6470,SAR
+Bachelor,NonSaudi,Male,2020 Q1,8653,SAR
+Bachelor,Saudi,Female,2020 Q1,10167,SAR
+Bachelor,Saudi,Male,2020 Q1,13101,SAR
+Bachelor,NonSaudi,Female,2020 Q2,6197,SAR
+Bachelor,NonSaudi,Male,2020 Q2,7721,SAR
+Bachelor,Saudi,Female,2020 Q2,9826,SAR
+Bachelor,Saudi,Male,2020 Q2,12526,SAR
+Bachelor,NonSaudi,Female,2020 Q3,6790,SAR
+Bachelor,NonSaudi,Male,2020 Q3,7592,SAR
+Bachelor,Saudi,Female,2020 Q3,9809,SAR
+Bachelor,Saudi,Male,2020 Q3,12475,SAR
+Bachelor,NonSaudi,Female,2020 Q4,6495,SAR
+Bachelor,NonSaudi,Male,2020 Q4,8302,SAR
+Bachelor,Saudi,Female,2020 Q4,9829,SAR
+Bachelor,Saudi,Male,2020 Q4,13257,SAR
+Bachelor,NonSaudi,Female,2021 Q1,5809,SAR
+Bachelor,NonSaudi,Male,2021 Q1,8933,SAR
+Bachelor,Saudi,Female,2021 Q1,9262,SAR
+Bachelor,Saudi,Male,2021 Q1,13744,SAR
+Bachelor,NonSaudi,Female,2021 Q2,5847,SAR
+Bachelor,NonSaudi,Male,2021 Q2,8727,SAR
+Bachelor,Saudi,Female,2021 Q2,9239,SAR
+Bachelor,Saudi,Male,2021 Q2,13373,SAR
+Diploma,NonSaudi,Female,2017 Q1,4526,SAR
+Diploma,NonSaudi,Male,2017 Q1,4374,SAR
+Diploma,Saudi,Female,2017 Q1,9061,SAR
+Diploma,Saudi,Male,2017 Q1,9898,SAR
+Diploma,NonSaudi,Female,2017 Q2,4257,SAR
+Diploma,NonSaudi,Male,2017 Q2,4344,SAR
+Diploma,Saudi,Female,2017 Q2,8419,SAR
+Diploma,Saudi,Male,2017 Q2,9895,SAR
+Diploma,NonSaudi,Female,2017 Q3,4037,SAR
+Diploma,NonSaudi,Male,2017 Q3,4517,SAR
+Diploma,Saudi,Female,2017 Q3,8388,SAR
+Diploma,Saudi,Male,2017 Q3,10081,SAR
+Diploma,NonSaudi,Female,2017 Q4,3960,SAR
+Diploma,NonSaudi,Male,2017 Q4,4543,SAR
+Diploma,Saudi,Female,2017 Q4,8670,SAR
+Diploma,Saudi,Male,2017 Q4,9691,SAR
+Diploma,NonSaudi,Female,2018 Q1,4138,SAR
+Diploma,NonSaudi,Male,2018 Q1,4319,SAR
+Diploma,Saudi,Female,2018 Q1,9367,SAR
+Diploma,Saudi,Male,2018 Q1,9907,SAR
+Diploma,NonSaudi,Female,2018 Q2,4103,SAR
+Diploma,NonSaudi,Male,2018 Q2,4455,SAR
+Diploma,Saudi,Female,2018 Q2,8932,SAR
+Diploma,Saudi,Male,2018 Q2,10059,SAR
+Diploma,NonSaudi,Female,2018 Q3,4734,SAR
+Diploma,NonSaudi,Male,2018 Q3,4574,SAR
+Diploma,Saudi,Female,2018 Q3,9345,SAR
+Diploma,Saudi,Male,2018 Q3,10814,SAR
+Diploma,NonSaudi,Female,2018 Q4,4808,SAR
+Diploma,NonSaudi,Male,2018 Q4,4532,SAR
+Diploma,Saudi,Female,2018 Q4,9184,SAR
+Diploma,Saudi,Male,2018 Q4,10203,SAR
+Diploma,NonSaudi,Female,2019 Q1,5451,SAR
+Diploma,NonSaudi,Male,2019 Q1,4769,SAR
+Diploma,Saudi,Female,2019 Q1,9411,SAR
+Diploma,Saudi,Male,2019 Q1,10154,SAR
+Diploma,NonSaudi,Female,2019 Q2,5625,SAR
+Diploma,NonSaudi,Male,2019 Q2,5263,SAR
+Diploma,Saudi,Female,2019 Q2,9185,SAR
+Diploma,Saudi,Male,2019 Q2,10400,SAR
+Diploma,NonSaudi,Female,2019 Q3,5052,SAR
+Diploma,NonSaudi,Male,2019 Q3,4915,SAR
+Diploma,Saudi,Female,2019 Q3,9347,SAR
+Diploma,Saudi,Male,2019 Q3,10366,SAR
+Diploma,NonSaudi,Female,2019 Q4,4537,SAR
+Diploma,NonSaudi,Male,2019 Q4,4822,SAR
+Diploma,Saudi,Female,2019 Q4,9052,SAR
+Diploma,Saudi,Male,2019 Q4,10137,SAR
+Diploma,NonSaudi,Female,2020 Q1,5113,SAR
+Diploma,NonSaudi,Male,2020 Q1,5249,SAR
+Diploma,Saudi,Female,2020 Q1,9061,SAR
+Diploma,Saudi,Male,2020 Q1,10098,SAR
+Diploma,NonSaudi,Female,2020 Q2,4662,SAR
+Diploma,NonSaudi,Male,2020 Q2,4084,SAR
+Diploma,Saudi,Female,2020 Q2,9006,SAR
+Diploma,Saudi,Male,2020 Q2,10021,SAR
+Diploma,NonSaudi,Female,2020 Q3,4180,SAR
+Diploma,NonSaudi,Male,2020 Q3,4553,SAR
+Diploma,Saudi,Female,2020 Q3,8586,SAR
+Diploma,Saudi,Male,2020 Q3,10042,SAR
+Diploma,NonSaudi,Female,2020 Q4,4195,SAR
+Diploma,NonSaudi,Male,2020 Q4,4321,SAR
+Diploma,Saudi,Female,2020 Q4,8657,SAR
+Diploma,Saudi,Male,2020 Q4,10285,SAR
+Diploma,NonSaudi,Female,2021 Q1,2549,SAR
+Diploma,NonSaudi,Male,2021 Q1,4604,SAR
+Diploma,Saudi,Female,2021 Q1,9067,SAR
+Diploma,Saudi,Male,2021 Q1,10330,SAR
+Diploma,NonSaudi,Female,2021 Q2,3486,SAR
+Diploma,NonSaudi,Male,2021 Q2,4362,SAR
+Diploma,Saudi,Female,2021 Q2,8835,SAR
+Diploma,Saudi,Male,2021 Q2,10675,SAR
+Doctorate,NonSaudi,Female,2017 Q1,12847,SAR
+Doctorate,NonSaudi,Male,2017 Q1,15608,SAR
+Doctorate,Saudi,Female,2017 Q1,22953,SAR
+Doctorate,Saudi,Male,2017 Q1,26380,SAR
+Doctorate,NonSaudi,Female,2017 Q2,12005,SAR
+Doctorate,NonSaudi,Male,2017 Q2,17074,SAR
+Doctorate,Saudi,Female,2017 Q2,16204,SAR
+Doctorate,Saudi,Male,2017 Q2,27509,SAR
+Doctorate,NonSaudi,Female,2017 Q3,10259,SAR
+Doctorate,NonSaudi,Male,2017 Q3,16788,SAR
+Doctorate,Saudi,Female,2017 Q3,22216,SAR
+Doctorate,Saudi,Male,2017 Q3,23079,SAR
+Doctorate,NonSaudi,Female,2017 Q4,11862,SAR
+Doctorate,NonSaudi,Male,2017 Q4,16262,SAR
+Doctorate,Saudi,Female,2017 Q4,21491,SAR
+Doctorate,Saudi,Male,2017 Q4,24906,SAR
+Doctorate,NonSaudi,Female,2018 Q1,11254,SAR
+Doctorate,NonSaudi,Male,2018 Q1,17241,SAR
+Doctorate,Saudi,Female,2018 Q1,19321,SAR
+Doctorate,Saudi,Male,2018 Q1,23032,SAR
+Doctorate,NonSaudi,Female,2018 Q2,13526,SAR
+Doctorate,NonSaudi,Male,2018 Q2,17749,SAR
+Doctorate,Saudi,Female,2018 Q2,23371,SAR
+Doctorate,Saudi,Male,2018 Q2,26700,SAR
+Doctorate,NonSaudi,Female,2018 Q3,14305,SAR
+Doctorate,NonSaudi,Male,2018 Q3,17876,SAR
+Doctorate,Saudi,Female,2018 Q3,20815,SAR
+Doctorate,Saudi,Male,2018 Q3,27214,SAR
+Doctorate,NonSaudi,Female,2018 Q4,12763,SAR
+Doctorate,NonSaudi,Male,2018 Q4,15933,SAR
+Doctorate,Saudi,Female,2018 Q4,17129,SAR
+Doctorate,Saudi,Male,2018 Q4,24459,SAR
+Doctorate,NonSaudi,Female,2019 Q1,13167,SAR
+Doctorate,NonSaudi,Male,2019 Q1,16061,SAR
+Doctorate,Saudi,Female,2019 Q1,21363,SAR
+Doctorate,Saudi,Male,2019 Q1,26262,SAR
+Doctorate,NonSaudi,Female,2019 Q2,13502,SAR
+Doctorate,NonSaudi,Male,2019 Q2,18762,SAR
+Doctorate,Saudi,Female,2019 Q2,21403,SAR
+Doctorate,Saudi,Male,2019 Q2,24024,SAR
+Doctorate,NonSaudi,Female,2019 Q3,12112,SAR
+Doctorate,NonSaudi,Male,2019 Q3,19210,SAR
+Doctorate,Saudi,Female,2019 Q3,20464,SAR
+Doctorate,Saudi,Male,2019 Q3,24321,SAR
+Doctorate,NonSaudi,Female,2019 Q4,13424,SAR
+Doctorate,NonSaudi,Male,2019 Q4,18246,SAR
+Doctorate,Saudi,Female,2019 Q4,20665,SAR
+Doctorate,Saudi,Male,2019 Q4,30599,SAR
+Doctorate,NonSaudi,Female,2020 Q1,16034,SAR
+Doctorate,NonSaudi,Male,2020 Q1,19311,SAR
+Doctorate,Saudi,Female,2020 Q1,21528,SAR
+Doctorate,Saudi,Male,2020 Q1,27777,SAR
+Doctorate,NonSaudi,Female,2020 Q2,13947,SAR
+Doctorate,NonSaudi,Male,2020 Q2,16736,SAR
+Doctorate,Saudi,Female,2020 Q2,21483,SAR
+Doctorate,Saudi,Male,2020 Q2,24202,SAR
+Doctorate,NonSaudi,Female,2020 Q3,13993,SAR
+Doctorate,NonSaudi,Male,2020 Q3,16715,SAR
+Doctorate,Saudi,Female,2020 Q3,19058,SAR
+Doctorate,Saudi,Male,2020 Q3,25863,SAR
+Doctorate,NonSaudi,Female,2020 Q4,14349,SAR
+Doctorate,NonSaudi,Male,2020 Q4,19406,SAR
+Doctorate,Saudi,Female,2020 Q4,21597,SAR
+Doctorate,Saudi,Male,2020 Q4,31295,SAR
+Doctorate,NonSaudi,Female,2021 Q1,10774,SAR
+Doctorate,NonSaudi,Male,2021 Q1,26296,SAR
+Doctorate,Saudi,Female,2021 Q1,25676,SAR
+Doctorate,Saudi,Male,2021 Q1,35622,SAR
+Doctorate,NonSaudi,Female,2021 Q2,16727,SAR
+Doctorate,NonSaudi,Male,2021 Q2,23036,SAR
+Doctorate,Saudi,Female,2021 Q2,24632,SAR
+Doctorate,Saudi,Male,2021 Q2,28380,SAR
+Master Degree,NonSaudi,Female,2017 Q1,10450,SAR
+Master Degree,NonSaudi,Male,2017 Q1,13799,SAR
+Master Degree,Saudi,Female,2017 Q1,11909,SAR
+Master Degree,Saudi,Male,2017 Q1,17007,SAR
+Master Degree,NonSaudi,Female,2017 Q2,12668,SAR
+Master Degree,NonSaudi,Male,2017 Q2,14841,SAR
+Master Degree,Saudi,Female,2017 Q2,11583,SAR
+Master Degree,Saudi,Male,2017 Q2,17763,SAR
+Master Degree,NonSaudi,Female,2017 Q3,11022,SAR
+Master Degree,NonSaudi,Male,2017 Q3,14604,SAR
+Master Degree,Saudi,Female,2017 Q3,11836,SAR
+Master Degree,Saudi,Male,2017 Q3,17443,SAR
+Master Degree,NonSaudi,Female,2017 Q4,8779,SAR
+Master Degree,NonSaudi,Male,2017 Q4,12233,SAR
+Master Degree,Saudi,Female,2017 Q4,10729,SAR
+Master Degree,Saudi,Male,2017 Q4,16471,SAR
+Master Degree,NonSaudi,Female,2018 Q1,9389,SAR
+Master Degree,NonSaudi,Male,2018 Q1,14068,SAR
+Master Degree,Saudi,Female,2018 Q1,12119,SAR
+Master Degree,Saudi,Male,2018 Q1,18421,SAR
+Master Degree,NonSaudi,Female,2018 Q2,12440,SAR
+Master Degree,NonSaudi,Male,2018 Q2,13558,SAR
+Master Degree,Saudi,Female,2018 Q2,11804,SAR
+Master Degree,Saudi,Male,2018 Q2,18720,SAR
+Master Degree,NonSaudi,Female,2018 Q3,12433,SAR
+Master Degree,NonSaudi,Male,2018 Q3,11325,SAR
+Master Degree,Saudi,Female,2018 Q3,11628,SAR
+Master Degree,Saudi,Male,2018 Q3,17091,SAR
+Master Degree,NonSaudi,Female,2018 Q4,8630,SAR
+Master Degree,NonSaudi,Male,2018 Q4,12845,SAR
+Master Degree,Saudi,Female,2018 Q4,13017,SAR
+Master Degree,Saudi,Male,2018 Q4,16721,SAR
+Master Degree,NonSaudi,Female,2019 Q1,9751,SAR
+Master Degree,NonSaudi,Male,2019 Q1,13373,SAR
+Master Degree,Saudi,Female,2019 Q1,12378,SAR
+Master Degree,Saudi,Male,2019 Q1,17102,SAR
+Master Degree,NonSaudi,Female,2019 Q2,14024,SAR
+Master Degree,NonSaudi,Male,2019 Q2,15183,SAR
+Master Degree,Saudi,Female,2019 Q2,11393,SAR
+Master Degree,Saudi,Male,2019 Q2,16373,SAR
+Master Degree,NonSaudi,Female,2019 Q3,10773,SAR
+Master Degree,NonSaudi,Male,2019 Q3,15724,SAR
+Master Degree,Saudi,Female,2019 Q3,12732,SAR
+Master Degree,Saudi,Male,2019 Q3,17577,SAR
+Master Degree,NonSaudi,Female,2019 Q4,11575,SAR
+Master Degree,NonSaudi,Male,2019 Q4,15829,SAR
+Master Degree,Saudi,Female,2019 Q4,12656,SAR
+Master Degree,Saudi,Male,2019 Q4,18786,SAR
+Master Degree,NonSaudi,Female,2020 Q1,15305,SAR
+Master Degree,NonSaudi,Male,2020 Q1,13667,SAR
+Master Degree,Saudi,Female,2020 Q1,12711,SAR
+Master Degree,Saudi,Male,2020 Q1,17590,SAR
+Master Degree,NonSaudi,Female,2020 Q2,11021,SAR
+Master Degree,NonSaudi,Male,2020 Q2,12783,SAR
+Master Degree,Saudi,Female,2020 Q2,11464,SAR
+Master Degree,Saudi,Male,2020 Q2,17276,SAR
+Master Degree,NonSaudi,Female,2020 Q3,10397,SAR
+Master Degree,NonSaudi,Male,2020 Q3,11872,SAR
+Master Degree,Saudi,Female,2020 Q3,12377,SAR
+Master Degree,Saudi,Male,2020 Q3,16503,SAR
+Master Degree,NonSaudi,Female,2020 Q4,9475,SAR
+Master Degree,NonSaudi,Male,2020 Q4,13815,SAR
+Master Degree,Saudi,Female,2020 Q4,11681,SAR
+Master Degree,Saudi,Male,2020 Q4,19444,SAR
+Master Degree,NonSaudi,Female,2021 Q1,9362,SAR
+Master Degree,NonSaudi,Male,2021 Q1,16467,SAR
+Master Degree,Saudi,Female,2021 Q1,12480,SAR
+Master Degree,Saudi,Male,2021 Q1,20431,SAR
+Master Degree,NonSaudi,Female,2021 Q2,13397,SAR
+Master Degree,NonSaudi,Male,2021 Q2,17202,SAR
+Master Degree,Saudi,Female,2021 Q2,12398,SAR
+Master Degree,Saudi,Male,2021 Q2,21754,SAR
